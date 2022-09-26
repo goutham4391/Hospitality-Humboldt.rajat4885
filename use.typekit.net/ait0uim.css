@@ -1,0 +1,75 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * brandon-grotesque:
+ *   - http://typekit.com/eulas/0000000000000000000132df
+ *   - http://typekit.com/eulas/0000000000000000000132e5
+ * trade-gothic-next:
+ *   - http://typekit.com/eulas/00000000000000003b9b2100
+ *   - http://typekit.com/eulas/00000000000000003b9b2101
+ *   - http://typekit.com/eulas/00000000000000003b9b2104
+ *   - http://typekit.com/eulas/00000000000000003b9b2107
+ * trade-gothic-next-condensed:
+ *   - http://typekit.com/eulas/00000000000000003b9b210b
+ *   - http://typekit.com/eulas/00000000000000003b9b210d
+ *
+ * © 2009-2022 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2019-03-14 15:49:44 UTC"}*/
+
+@import url("../p.typekit.net/p295a.css?s=1&amp;k=ait0uim&amp;ht=tk&amp;f=10294.10304.39680.39681.39684.39687.39691.39693&amp;a=691274&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"brandon-grotesque";
+src:url("af/1da05b/0000000000000000000132df/27/lbc0f?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n4&amp;v=3") format("woff2"),url("af/1da05b/0000000000000000000132df/27/dbc0f?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n4&amp;v=3") format("woff"),url("af/1da05b/0000000000000000000132df/27/abc0f?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"brandon-grotesque";
+src:url("af/031bc7/0000000000000000000132e5/27/l62fb?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n9&amp;v=3") format("woff2"),url("af/031bc7/0000000000000000000132e5/27/d62fb?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n9&amp;v=3") format("woff"),url("af/031bc7/0000000000000000000132e5/27/a62fb?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n9&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"trade-gothic-next";
+src:url("af/a1ace0/00000000000000003b9b2100/27/l1eed?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n7&amp;v=3") format("woff2"),url("af/a1ace0/00000000000000003b9b2100/27/d1eed?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n7&amp;v=3") format("woff"),url("af/a1ace0/00000000000000003b9b2100/27/a1eed?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"trade-gothic-next";
+src:url("af/44d9b6/00000000000000003b9b2101/27/lbd66?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=i7&amp;v=3") format("woff2"),url("af/44d9b6/00000000000000003b9b2101/27/dbd66?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=i7&amp;v=3") format("woff"),url("af/44d9b6/00000000000000003b9b2101/27/abd66?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=i7&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"trade-gothic-next";
+src:url("af/be447a/00000000000000003b9b2104/27/l2b4f?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=i4&amp;v=3") format("woff2"),url("af/be447a/00000000000000003b9b2104/27/d2b4f?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=i4&amp;v=3") format("woff"),url("af/be447a/00000000000000003b9b2104/27/a2b4f?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=i4&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"trade-gothic-next";
+src:url("af/0f438f/00000000000000003b9b2107/27/lbc0f?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n4&amp;v=3") format("woff2"),url("af/0f438f/00000000000000003b9b2107/27/dbc0f?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n4&amp;v=3") format("woff"),url("af/0f438f/00000000000000003b9b2107/27/abc0f?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"trade-gothic-next-condensed";
+src:url("af/49496c/00000000000000003b9b210b/27/l1eed?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n7&amp;v=3") format("woff2"),url("af/49496c/00000000000000003b9b210b/27/d1eed?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n7&amp;v=3") format("woff"),url("af/49496c/00000000000000003b9b210b/27/a1eed?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"trade-gothic-next-condensed";
+src:url("af/9f0057/00000000000000003b9b210d/27/lbc0f?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n4&amp;v=3") format("woff2"),url("af/9f0057/00000000000000003b9b210d/27/dbc0f?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n4&amp;v=3") format("woff"),url("af/9f0057/00000000000000003b9b210d/27/abc0f?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-brandon-grotesque { font-family: "brandon-grotesque",sans-serif; }
+.tk-trade-gothic-next { font-family: "trade-gothic-next",sans-serif; }
+.tk-trade-gothic-next-condensed { font-family: "trade-gothic-next-condensed",sans-serif; }

@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 27 Sep 2022 01:24:58 at https://visithumboldt.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://visithumboldt.com/ -O1 "C:\Users\RAJAT SINGH\OneDrive\Desktop\INTERNSHIP\MYKNOT services\Websites assignment\4th webpage\4 site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:24:59	Warning: 	Note: due to https://visithumboldt.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+01:25:10	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?%20%20%20%20id= (from https://visithumboldt.com/)
+01:26:44	Warning: 	Found for https://visithumboldt.com/activity_type/redwoods/
+01:26:44	Warning: 	File has moved from https://visithumboldt.com/activity_type/redwoods/ to https://visithumboldt.com/things-to-do/#type=redwoods
+01:26:44	Warning: 	Found for https://visithumboldt.com/activity_type/beaches/
+01:26:44	Warning: 	File has moved from https://visithumboldt.com/activity_type/beaches/ to https://visithumboldt.com/things-to-do/#type=beaches
+01:26:44	Warning: 	Found for https://visithumboldt.com/activity_type/hiking/
+01:26:44	Warning: 	File has moved from https://visithumboldt.com/activity_type/hiking/ to https://visithumboldt.com/things-to-do/#type=hiking
+01:26:44	Warning: 	Found for https://visithumboldt.com/activity_type/water-activities/
+01:26:44	Warning: 	File has moved from https://visithumboldt.com/activity_type/water-activities/ to https://visithumboldt.com/things-to-do/#type=water-activities
+01:26:44	Warning: 	Found for https://visithumboldt.com/activity_type/towns/
+01:26:44	Warning: 	File has moved from https://visithumboldt.com/activity_type/towns/ to https://visithumboldt.com/things-to-do/#type=towns
+01:26:44	Warning: 	Found for https://visithumboldt.com/activity_type/history/
+01:26:44	Warning: 	File has moved from https://visithumboldt.com/activity_type/history/ to https://visithumboldt.com/things-to-do/#type=history
+01:26:44	Warning: 	Found for https://visithumboldt.com/activity_type/tours-guides/
+01:26:44	Warning: 	File has moved from https://visithumboldt.com/activity_type/tours-guides/ to https://visithumboldt.com/things-to-do/#type=tours-guides
+01:26:46	Error: 	"Forbidden" (403) at link https://visithumboldt.com/wp-content/themes/visit-humboldt-theme/assets/images/ (from https://visithumboldt.com/wp-content/themes/visit-humboldt-theme/assets/js/dist/scripts.min.js?ver=3.0)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 48 seconds : 425 links scanned, 414 files written (59979063 bytes overall) [56142684 bytes received at 519839 bytes/sec], 5941584 bytes transferred using HTTP compression in 88 files, ratio 29%, 32.6 requests per connection
+(2 errors, 15 warnings, 0 messages)

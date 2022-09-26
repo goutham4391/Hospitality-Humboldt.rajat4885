@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.visithumboldt.com	TRUE	/	FALSE	1999999999	SSESS026b336fc936965e946e1023c1ac6f86	d8eca8d233afe6ac144cd027931fc22c
+
